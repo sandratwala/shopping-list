@@ -1,6 +1,6 @@
-Cooking oil
-plates
-knives
-spoons
-cups
-pots
+vim
+mops
+brooms
+soap
+detergent
+bleaching agent
